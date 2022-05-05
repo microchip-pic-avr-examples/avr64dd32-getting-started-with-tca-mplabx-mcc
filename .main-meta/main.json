@@ -4,10 +4,10 @@
     "content": {
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.avr64dd32-getting-started-with-tca-mplabx-mcc",
-        "version": " ",
-        "displayName": "",
+        "version": "1.0.0",
+        "displayName": "Timer in Three Different Modes Using the AVR64DD32 Microcontroller Generated with MCC Melody",
         "projectName": "avr64dd32-getting-started-with-tca-mplabx-mcc",
-        "shortDescription": "Guide for using TCA for the AVR64DD32 Microcontroller.",
+        "shortDescription": "Guide for using TCA for the AVR64DD32 microcontroller.",
         "ide": {
             "name": "MPLAB X",
             "semverRange": ">=6.0.0"
@@ -19,12 +19,12 @@
             }
         ],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "AVR-Dx_DFP",
+            "semverRange": "^2.1.152"
         },
         "configurator": {
-            "name": "",
-            "semverRange": ""
+            "name": "N/A",
+            "semverRange": " "
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -37,8 +37,20 @@
             }
         },
         "author": "Bogdan-Alexandru Mariniuc",
-        "peripherals": [],
-        "keywords": [],
+        "peripherals": [
+            "TCA"
+        ],
+        "keywords": [
+            "MPLAB X",
+            "Getting Started",
+            "Bare Metal",
+            "TCA",
+            "Timer",
+            "Timing Module,",
+            "Module",
+            "Timer Type",
+            "Timing"
+        ],
         "additionalData": {
             "longDescription": {
                 "metaDataVersion": "1.0.0",
